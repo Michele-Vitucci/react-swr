@@ -1,0 +1,10 @@
+.welcome {
+    background-color: greenyellow;
+    border: 2px solid darkblue;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    width: 50%;
+    margin: 20px auto;
+}
+
